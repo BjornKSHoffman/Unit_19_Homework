@@ -1,0 +1,1 @@
+mnemonic = os.getenv('MNEMONIC', 'diamond session puzzle siege jewel spell melt pen index torch liberty sniff')
